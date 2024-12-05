@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PinButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/rounded_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>
